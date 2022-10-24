@@ -72,5 +72,6 @@ traces/
 build
 dist/
 docs/
+screenshots/
 screenshots/features/playwright.outline.feature/darwin/chromium/dark.png
 screenshots/features/playwright.outline.feature/darwin/chromium/light.png
